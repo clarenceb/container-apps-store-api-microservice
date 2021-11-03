@@ -1,0 +1,4 @@
+export AAD_APP_NAME="containerapps-demo"
+export RESOURCE_GROUP="containerapps-demo"
+export PACKAGES_TOKEN="<insert-your-pat-here>"
+export LOCATION="canadacentral"
